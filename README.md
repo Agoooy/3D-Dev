@@ -18,4 +18,4 @@ By developing this project, you will gain hands-on experience in crafting immers
 
 [![My Skills](https://skillicons.dev/icons?i=vercel)](https://skillicons.dev)
 
-To ensure top-tier performance and reliability, ArsVirtua is deployed on Vercel, a powerful platform known for its seamless integration with Next.js.
+To ensure top-tier performance and reliability, 3D Dev is deployed on Vercel, a powerful platform known for its seamless integration with Next.js.

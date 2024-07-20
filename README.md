@@ -18,4 +18,4 @@ React provides a robust framework for building reusable UI components, while Vit
 
 [![My Skills](https://skillicons.dev/icons?i=vercel)](https://skillicons.dev)
 
-To ensure top-tier performance and reliability, 3D Dev is deployed on Vercel, a powerful platform known for its seamless integration with Next.js.
+The project is deployed on Vercel, ensuring reliable performance, automatic scaling, and global accessibility. This project exemplifies innovation in web design, setting a new standard for interactive digital experiences.

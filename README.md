@@ -1,6 +1,5 @@
 <div align="center">
     <strong>3D DEVELOPER WEBSITE</strong>
-    <p>This project showcases a cutting-edge 3D website.</p>
 </div>
 
 ---

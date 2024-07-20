@@ -1,8 +1,8 @@
-## 3D Dev
+## 3D Website Developer
 
 ---
 
-By developing this project, you will gain hands-on experience in crafting immersive web experiences, mastering 3D libraries, and implementing engaging animations. The combination of creativity and technical skills showcased in this project serves as an excellent learning opportunity for developers seeking to enhance their portfolio and captivate users with cutting-edge web design.
+This project showcases a cutting-edge 3D website, utilizing advanced technologies to create an immersive and interactive user experience. Built with a focus on modern web development techniques, it incorporates 3D graphics and animations to engage visitors in a visually stunning and dynamic environment. Key technologies used include React, Vite, and Three.js, ensuring optimal performance and seamless integration of 3D elements. This project exemplifies innovation in web design, setting a new standard for interactive digital experiences.
 
 ---
 

@@ -10,7 +10,7 @@ This project showcases a cutting-edge 3D website, utilizing advanced technologie
 
 [![My Skills](https://skillicons.dev/icons?i=react,threejs,vite,tailwind)](https://skillicons.dev)
 
-3D Dev is built using the React, Threejs, Vite, Tailwindcss framework, which ensures a fast, reliable, and scalable platform.
+3D Dev is built using the React, Three.js, Vite, and Tailwind CSS framework, which ensures a fast, reliable, and scalable platform.
 
 ---
 

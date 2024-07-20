@@ -6,13 +6,13 @@
 
 This project showcases a cutting-edge 3D website, utilizing advanced technologies to create an immersive and interactive user experience. Built with a focus on modern web development techniques, it incorporates 3D graphics and animations to engage visitors in a visually stunning and dynamic environment. Key technologies used include React, Vite, and Three.js, ensuring optimal performance and seamless integration of 3D elements. This project exemplifies innovation in web design, setting a new standard for interactive digital experiences.
 
----
+--
 
 <div align="left">
     <strong>TECH STACK</strong>
 </div>
 
----
+--
 
 [![My Skills](https://skillicons.dev/icons?i=react,vite,threejs,tailwind)](https://skillicons.dev)
 

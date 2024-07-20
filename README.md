@@ -1,6 +1,8 @@
 <div align="center">
-## 3D Website Developer
+    <strong>Welcome to My Project</strong>
+    <p>This project showcases a cutting-edge 3D website.</p>
 </div>
+
 ---
 
 This project showcases a cutting-edge 3D website, utilizing advanced technologies to create an immersive and interactive user experience. Built with a focus on modern web development techniques, it incorporates 3D graphics and animations to engage visitors in a visually stunning and dynamic environment. Key technologies used include React, Vite, and Three.js, ensuring optimal performance and seamless integration of 3D elements. This project exemplifies innovation in web design, setting a new standard for interactive digital experiences.

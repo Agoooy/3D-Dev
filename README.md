@@ -25,7 +25,7 @@
 ---
 
 <div align="center">
-    <h3><strong>DEPLOYED ON</strong></h3>
+    <h2><strong>DEPLOYED ON</strong></h2>
 
 [![My Skills](https://skillicons.dev/icons?i=vercel)](https://skillicons.dev)
 </div>

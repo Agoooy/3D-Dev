@@ -1,5 +1,5 @@
 <div align="center">
-    <strong>Welcome to My Project</strong>
+    <strong>3D DEVELOPER WEBSITE</strong>
     <p>This project showcases a cutting-edge 3D website.</p>
 </div>
 

@@ -8,7 +8,9 @@ This project showcases a cutting-edge 3D website, utilizing advanced technologie
 
 ---
 
-## Tech Stack
+<div align="center">
+    <strong>TECH STACK</strong>
+</div>
 
 [![My Skills](https://skillicons.dev/icons?i=react,vite,threejs,tailwind)](https://skillicons.dev)
 
@@ -16,7 +18,9 @@ React provides a robust framework for building reusable UI components, while Vit
 
 ---
 
-## Deployed on
+<div align="center">
+    <strong>DEPLOYED ON</strong>
+</div>
 
 [![My Skills](https://skillicons.dev/icons?i=vercel)](https://skillicons.dev)
 

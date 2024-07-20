@@ -12,7 +12,7 @@ This project showcases a cutting-edge 3D website, utilizing advanced technologie
     <strong>TECH STACK</strong>
 </div>
 
---
+----
 
 [![My Skills](https://skillicons.dev/icons?i=react,vite,threejs,tailwind)](https://skillicons.dev)
 

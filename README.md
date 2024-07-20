@@ -8,7 +8,7 @@ This project showcases a cutting-edge 3D website, utilizing advanced technologie
 
 ## Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=react,threejs,vite,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,vite,threejs,tailwind)](https://skillicons.dev)
 
 React provides a robust framework for building reusable UI components, while Vite enhances development speed with fast Hot Module Replacement (HMR). Three.js simplifies the creation of complex 3D graphics, and Tailwind CSS offers a flexible and efficient approach to styling. This project exemplifies innovation in web design, setting a new standard for interactive digital experiences.
 

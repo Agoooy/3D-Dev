@@ -22,7 +22,7 @@ React provides a robust framework for building reusable UI components, while Vit
 
 ---
 
-<div align="left">
+<div align="center">
     <strong>DEPLOYED ON</strong>
 
 [![My Skills](https://skillicons.dev/icons?i=vercel)](https://skillicons.dev)

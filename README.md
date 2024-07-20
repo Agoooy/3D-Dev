@@ -24,10 +24,10 @@ React provides a robust framework for building reusable UI components, while Vit
 
 <div align="left">
     <strong>DEPLOYED ON</strong>
+
+[![My Skills](https://skillicons.dev/icons?i=vercel)](https://skillicons.dev)
 </div>
 
 ---
-
-[![My Skills](https://skillicons.dev/icons?i=vercel)](https://skillicons.dev)
 
 The project is deployed on Vercel, ensuring reliable performance, automatic scaling, and global accessibility. This project exemplifies innovation in web design, setting a new standard for interactive digital experiences.

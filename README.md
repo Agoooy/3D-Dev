@@ -1,5 +1,3 @@
----
-
 <div align="center">
     <h1><strong>3D DEVELOPER WEBSITE</strong></h1>
 </div>
@@ -37,5 +35,3 @@
 <p align="center">
     <em>The project is deployed on Vercel, ensuring reliable performance, automatic scaling, and global accessibility. This project exemplifies innovation in web design, setting a new standard for interactive digital experiences.</em>
 </p>
-
----

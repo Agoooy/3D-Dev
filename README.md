@@ -18,7 +18,7 @@ And don't forget to check out the [demo](https://vercel.app) preview.
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
-## Connect with me
+### Connect with me
 You can reach me through My Gmail, LinkedIn, or Instagram account
   
  <a
